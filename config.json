@@ -1,0 +1,44 @@
+{
+  "default": {
+    "extensions": {
+      "material-shell@papyelgringo": false,
+      "auto-move-windows@gnome-shell-extensions.gcampax.github.com": false,
+      "gnome-shell-go-to-last-workspace@github.com": false,
+      "gsconnect@andyholmes.github.io": true,
+      "user-theme@gnome-shell-extensions.gcampax.github.com": true,
+      "notification-banner-reloaded@marcinjakubowski.github.com": true,
+      "unite@hardpixel.eu": false,
+      "apps-menu@gnome-shell-extensions.gcampax.github.com": true,
+      "background-logo@fedorahosted.org": false,
+      "launch-new-instance@gnome-shell-extensions.gcampax.github.com": true,
+      "places-menu@gnome-shell-extensions.gcampax.github.com": true,
+      "window-list@gnome-shell-extensions.gcampax.github.com": true
+    },
+    "dconf": "./dconf-default.ini"
+  },
+  "vanilla": {
+    "extensions": {
+      "gsconnect@andyholmes.github.io": true,
+      "user-theme@gnome-shell-extensions.gcampax.github.com": true,
+      "notification-banner-reloaded@marcinjakubowski.github.com": true,
+      "apps-menu@gnome-shell-extensions.gcampax.github.com": true,
+      "launch-new-instance@gnome-shell-extensions.gcampax.github.com": true,
+      "places-menu@gnome-shell-extensions.gcampax.github.com": true,
+      "window-list@gnome-shell-extensions.gcampax.github.com": true
+    },
+    "dconf": "./dconf-vanilla.ini"
+  },
+
+  "material-shell": {
+    "extensions": {
+      "material-shell@papyelgringo": true,
+      "auto-move-windows@gnome-shell-extensions.gcampax.github.com": true,
+      "gnome-shell-go-to-last-workspace@github.com": true,
+      "gsconnect@andyholmes.github.io": true,
+      "user-theme@gnome-shell-extensions.gcampax.github.com": true,
+      "notification-banner-reloaded@marcinjakubowski.github.com": true,
+      "unite@hardpixel.eu": true
+    },
+    "dconf": "./dconf-material-shell.ini"
+  }
+}
