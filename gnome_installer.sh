@@ -71,7 +71,7 @@ function select_mode() {
 
 # check arguments
 # -h --help, -m --mode, -d --distro, -i --install
-MODE="vanilla"
+MODE="default"
 DISTRO="fedora"
 INSTALL=false
 for arg in "$@"; do
