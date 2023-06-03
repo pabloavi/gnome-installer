@@ -1,18 +1,29 @@
 {
   "default": {
     "extensions": {
-      "material-shell@papyelgringo": false,
-      "auto-move-windows@gnome-shell-extensions.gcampax.github.com": false,
-      "gnome-shell-go-to-last-workspace@github.com": false,
+      "just-perfection-desktop@just-perfection": true,
+      "AlphabeticalAppGrid@stuarthayhurst": true,
+      "auto-move-windows@gnome-shell-extensions.gcampax.github.com": true,
+      "gnome-ui-tune@itstime.tech": true,
+      "top-bar-organizer@julian.gse.jsts.xyz": true,
+      "gnome-shell-go-to-last-workspace@github.com": true,
       "gsconnect@andyholmes.github.io": true,
+      "hotedge@jonathan.jdoda.ca": true,
+      "rounded-window-corners@yilozt": true,
       "user-theme@gnome-shell-extensions.gcampax.github.com": true,
       "notification-banner-reloaded@marcinjakubowski.github.com": true,
-      "unite@hardpixel.eu": false,
-      "apps-menu@gnome-shell-extensions.gcampax.github.com": true,
-      "background-logo@fedorahosted.org": false,
+      "drive-menu@gnome-shell-extensions.gcampax.github.com": true,
+      "date-menu-formatter@marcinjakubowski.github.com": true,
+      "horizontal-workspace-indicator@tty2.io": true,
+      "forge@jmmaranan.com": true,
+      "blur-my-shell@aunetx": true,
       "launch-new-instance@gnome-shell-extensions.gcampax.github.com": true,
-      "places-menu@gnome-shell-extensions.gcampax.github.com": true,
-      "window-list@gnome-shell-extensions.gcampax.github.com": true
+      "material-shell@papyelgringo": false,
+      "apps-menu@gnome-shell-extensions.gcampax.github.com": false,
+      "background-logo@fedorahosted.org": false,
+      "places-menu@gnome-shell-extensions.gcampax.github.com": false,
+      "window-list@gnome-shell-extensions.gcampax.github.com": false,
+      "another-window-session-manager@gmail.com": false
     },
     "dconf": "./dconf-default.ini"
   },
