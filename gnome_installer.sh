@@ -5,7 +5,7 @@
 # modes:
 # - vanilla
 # - material shell
-modes=("vanilla" "material-shell")
+modes=("default" "vanilla" "material-shell")
 distros=("fedora")
 
 # load config from config.json using jq
